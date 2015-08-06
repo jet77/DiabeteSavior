@@ -12,6 +12,7 @@
     <li><a href="<?php echo $this->webroot; ?>calculators/bsa">BSA calculator<a></li>
     <li><a href="<?php echo $this->webroot; ?>calculators/bgl">A1C to eAG calculator<a></li>
     <li><a href="<?php echo $this->webroot; ?>calculators/diabetesrisk">Diabetes risk calculator</a></li>
+    <li><a href="<?php echo $this->webroot; ?>calculators/metabolicsyndrome">Metabolic Syndrome</a></li>
   </ul>
 </p>
 <p class="alert alert-success text-left">
